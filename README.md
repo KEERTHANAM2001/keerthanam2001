@@ -12,5 +12,5 @@
 - 📫 How to reach me: keerthanam1029@gmail.com
 - Goals in 2021: Involve in open source contributions at Maximum
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: know to play keyboard both technical and with musical
+- ⚡ Fun fact: know to play keyboard both technical and  musical
 
