@@ -5,7 +5,7 @@
 
 ##
 
-[<img src="https://ingenium-ahmedabad-university.github.io/hackathon/images/animated-svg/faq%20animated.svg" alt="github logo" width="30" height="30">]
+[<img src="https://ingenium-ahmedabad-university.github.io/hackathon/images/animated-svg/faq%20animated.svg" alt="github logo" width="55" height="55">]
 
 - 🔭 I’m currently working on AI projects
 - 🌱 I’m currently learning Microsoft Azure
