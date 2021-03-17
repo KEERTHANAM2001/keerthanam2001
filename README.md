@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Keerthana Mahalingam, Open source Enthusiast
 
 <!--
-**KEERTHANAM2001/keerthanam2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KEERTHANAM2001/keerthanam2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ##Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@
 - Goals in 2021: Involve in open source contributions at Maximum
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: know to play keyboard both technical and with musical
--->
+
