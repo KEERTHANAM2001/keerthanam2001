@@ -5,6 +5,8 @@
 
 ##
 
+[<img src="https://ingenium-ahmedabad-university.github.io/hackathon/images/animated-svg/faq%20animated.svg" alt="github logo" width="30" height="30">]
+
 - 🔭 I’m currently working on AI projects
 - 🌱 I’m currently learning Microsoft Azure
 - 👯 I’m looking to collaborate with other content writers
